@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
